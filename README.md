@@ -1,4 +1,4 @@
-# Facial Recognition Experimentation Repository
+# Facial Recognition
 
 This repository is meant for experimenting with various facial recognition techniques, libraries, and algorithms. 
 
